@@ -1,0 +1,3 @@
+﻿  PPIDSpofing.cpp
+C:\Users\saaad\Desktop\My Mal Dev\17 - PPID Spoofing\PPIDSpofing\PPIDSpofing.cpp(29): warning C4715: 'getIntegrityLevel': not all control paths return a value
+  PPIDSpofing.vcxproj -> C:\Users\saaad\Desktop\My Mal Dev\17 - PPID Spoofing\PPIDSpofing\Debug\PPIDSpofing.exe

@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (PPIDSpofing.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  ErrorDetails.cpp
+  SysPPIDSpofing.cpp
+  Generating Code...
+C:\Users\saaad\Desktop\My Mal Dev\17 - PPID Spoofing\PPIDSpofing\SysPPIDSpofing.cpp(27): warning C4715: 'getIntegrityLevel': not all control paths return a value
+  PPIDSpofing.vcxproj -> C:\Users\saaad\Desktop\My Mal Dev\17 - PPID Spoofing\PPIDSpofing\x64\Debug\SysPPIDSpofing.exe
